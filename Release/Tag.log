@@ -1,0 +1,7 @@
+﻿  main.cpp
+E:\Stud\Учёба\IT-сообщество\Project\Tag\main.cpp(2,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Tag.vcxproj -> E:\Stud\Учёба\IT-сообщество\Project\Tag\Release\Tag.exe
